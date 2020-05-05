@@ -1,0 +1,3 @@
+Memory managment of an operating system is where it takes the 2 kinds of memory( Primary and Main memory) and manages them. 
+The OS decides which the order that processes gets ahold of this memory and how long.
+When a process requests The OS it gives it access to the memory the stops it whem it is done like the on and of switch.
