@@ -3,3 +3,5 @@ The OS decides which the order that processes gets ahold of this memory and how 
 When a process requests The OS it gives it access to the memory the stops it whem it is done like the on and of switch.
 
 Another procces of an OS is Security. It uses passwords to protect the data a user has on his computer. It also stops anyone trying to access this data or programs that is not supposed to. This is important because most failure in hardware comes from becasue with all the perifreals having access there needs to be something that can keep things that could disturb it out.
+
+Another procces of ans OS is watching over system performance. Just like a floor manager/health trainer. It sits there with a stop watch and records response time between requests. This provides importand Information to help trouble shoot any problems.
